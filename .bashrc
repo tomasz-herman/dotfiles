@@ -50,7 +50,6 @@ PROMPT_COMMAND=prompt
 
 # sorry microsoft
 export DOTNET_CLI_TELEMETRY_OPTOUT=1
-export FrameworkPathOverride=/usr/lib/mono/4.8-api/
 
 export ANDROID_HOME="$HOME/Workspace/Android/Sdk"
 
